@@ -1,6 +1,11 @@
 /*
 console.log(global)*/
 
-setTimeout(()=>{
+/*setTimeout(()=>{
     console.log('Hello')
-},2000)
+},2000)*/
+
+/*
+console.log(__dirname)*/
+
+console.log(__filename)
